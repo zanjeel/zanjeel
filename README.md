@@ -21,7 +21,7 @@ I love building **cool, innovative projects**—like my portfolio:
 
 ## ⚡ Featured Projects  
 
-### 🗣️ [Zanjeels-Portfolio](https://zanjeel-portfolio.netlify.app/)  
+### 🎯 [Zanjeels-Portfolio](https://zanjeel-portfolio.netlify.app/)  
 A Modern 3D Immersive Experience that is **interactive and so fun to visit** 🤯  
 🔹 **Tech:** React, Three.js, TailwindCSS, JavaScript, React Three Fiber & more 
 
