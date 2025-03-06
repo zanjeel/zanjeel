@@ -15,7 +15,7 @@ I love building **cool, innovative projects**—like my portfolio:
 
 ## 🌍 About Me  
 📍 **London, UK**  
-🎯 **Software Developer, AI Develope and Data Analyst**  
+🎯 **Software Developer, AI Developer and Data Analyst**  
 💡 **Turning ideas into reality**  
 
 ---
