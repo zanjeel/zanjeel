@@ -3,7 +3,7 @@
 👋 Hey there! I build things that **stand out** and **make a difference**.  
 
 Right now, I’m crafting **3D AI Chatbots** using **Three.js, React Three Fiber, Node.js, JavaScript, and Gemini AI**! 🤖  
-(It's private for now, but sneak a peek 👉 [Live Demo](https://threed-chatbot-zoe-frontend.onrender.com))  
+(It's private for now, but get sneak a peek here👉 [ZeejAI](https://3-d-chatbot-zeej-frontend.vercel.app))  
 
 I love building **cool, innovative projects**—like my portfolio:  
 🌐 [Check it out](https://zanjeel-portfolio.netlify.app)  
