@@ -6,9 +6,6 @@ Right now, I’m crafting **3D AI Chatbots** using **Three.js, React Three Fiber
 
 🔗 It's private for now, but get sneak a peek here👉 [ZeejAI](https://3-d-chatbot-zeej-frontend.vercel.app) 
 
-I love building **cool, innovative projects**—like my portfolio:  
-✨ [View My Portfolio](https://zanjeel-portfolio.netlify.app)  
-
 **One day, I’ll build something so big, you won’t stop using it!** 🚀  
 
 ---
@@ -20,7 +17,7 @@ I love building **cool, innovative projects**—like my portfolio:
 
 ---
 
-## ⚡ Featured Projects  
+## ⚡ Featured Software & Data Projects  
 
 ### 🎯 [Zanjeels-Portfolio](https://zanjeel-portfolio.netlify.app/)  
 A Modern 3D Immersive Experience that is **interactive and so fun to visit** 🤯  
@@ -49,6 +46,7 @@ A modern **UI component library** 🎨
 ---
 
 ## 💻 Tech Stack  
+🛠️ **Data Analysis and Visualisation** Python, R, SQL, Power BI, Tableau  
 🎨 **Frontend:** React, TypeScript, JavaScript, Tailwind  
 ⚙️ **Backend:** Python, Node.js, C++  
 🧠 **AI/ML:** LLMs, Speech Recognition, Voice AI, Gemini, OpenAI  
